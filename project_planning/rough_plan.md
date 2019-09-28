@@ -1,5 +1,5 @@
 # Project Plan
-## (Rough Outline )
+## (Rough Outline)
 ---
 
 ### Semester 1
